@@ -1,0 +1,143 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.social{
+  text-align-last: center;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 5%;
+}
+
+/*Social Media Logos Size*/
+.social a img{
+width: 10%;
+height: 10%;
+}
+
+/* Remember Me */
+.Remember{
+    font-family: 'Play', sans-serif;
+}
+
+/* Input fields */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    font-family: "Play", sans-serif;
+    background: #f1f1f1;
+}
+
+/* Add a background color when the inputs get focus */
+input[type="text"]:focus,
+input[type="password"]:focus {
+    background-color: rgba(220, 73, 85, 0.234);
+    outline: none;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: rgba(138, 170, 220, 1);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: 'Oswald', sans-serif;
+}
+
+button:hover {
+    opacity: 4;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    float: left;
+    margin-left: 7%;
+    width: 40%;
+    padding: 14px 20px;
+    background-color: rgba(220, 73, 85, 1);
+    border-radius: 100px;
+}
+
+.signupbtn {
+    float: right;
+    margin-right: 7%;
+    width: 40%;
+    padding: 14px 20px;
+    background-color: rgba(138, 170, 220, 1);
+    border-radius: 100px;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(138, 169, 220, 0.2);
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn,
+  .signupbtn {
+    width: 100%;
+  }
+}
