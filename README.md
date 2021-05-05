@@ -40,4 +40,4 @@
     :   ->Frontend Repo Link: https://github.com/VishuVidhi?Aviators-Hackloop.git 
         -> Backend Repo Link: https://github.com/hg242322/subrem
 
-[^1] : Link in the URl section
+[^1] : Link in Important URLs
