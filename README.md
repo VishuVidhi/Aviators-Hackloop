@@ -14,30 +14,37 @@
         -> It reminds user whenever a subscription is about to expire, so that the user could renew the subscription and maintain a proper record of his/her spending on the subscriptions of various diffeent platforms.
 
 ## How We Built SubRem
-    : SubRem was made in two parts Frontend and Backend as most of the website are made,:
-        -> Frontend part is entirely made using HTML, CSS, & JavaScript
-        -> Backend part was made using DJango which is a Python Framework
+    : SubRem was made in two parts Frontend and Backend as most of the website are made:
+        -> Frontend part is entirely made using HTML, CSS, & JavaScript.
+        -> Backend part was made using DJango which is a Python Framework.
 
 ## How to run SubRem Locally
     : SubRem can be easily accessed just by downloading the frontend and the backend reposetories locally.[^1]
         
 
 ## Challenges we ran into
-    : Majority of us being biggners in WebDev we faced some chalenges in: 
-        -> Using GitHub properly
-        -> CSS in the Home page
+    : Majority of us being biggners in WebDev hence We faced some chalenges in: 
+        -> Using GitHub properly.
+        -> Detailed CSS and HTML.
+        -> Working with both Frontend and Backend simultaniously.
  
 ## Accomplishments that we're Proud of
-    :   -> Work with new People
-        -> Learn New Things
-        -> Complete our Project in Time
+    :   -> Work with new People.
+        -> Learn New Things.
+        -> Complete our Project in Time.
+        -> Overcame the Challenges.
 
 ## What we Learned
-    :   -> New Web Developement Techniques
-        -> Time Management
-        -> Team Work
+    :   -> New Web Developement Techniques.
+        -> Time Management.
+        -> Team Work.
+        
 ## Important URLs
-    :   ->Frontend Repo Link: https://github.com/VishuVidhi?Aviators-Hackloop.git 
+    :   -> Frontend Repo Link: https://github.com/VishuVidhi?Aviators-Hackloop.git 
         -> Backend Repo Link: https://github.com/hg242322/subrem
+        -> References: -https://www.w3schools.com/
+                       -https://www.youtube.com/c/TraversyMedia/featured
+                
+        
 
 [^1] : Link in Important URLs
